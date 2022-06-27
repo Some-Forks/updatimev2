@@ -1,7 +1,7 @@
 url: https://swagger.trake-dev.pcnt.io
-status: down
-code: 503
-responseTime: 3024
-lastUpdated: 2022-06-26T23:14:03.759Z
+status: up
+code: 200
+responseTime: 414
+lastUpdated: 2022-06-27T20:59:27.445Z
 startTime: Mon Jun 06 2022 14:49:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

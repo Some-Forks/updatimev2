@@ -40,7 +40,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 203,
     "timeMonth": 265,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Trake Developer Doc",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/swagger.trake-dev.pcnt.io",
     "slug": "trake-developer-doc",
     "status": "up",
-    "uptime": "59.53%",
+    "uptime": "59.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.62%",
-    "uptimeYear": "59.53%",
+    "uptimeMonth": "60.13%",
+    "uptimeYear": "59.73%",
     "time": 1371,
     "timeDay": 486,
     "timeWeek": 434,

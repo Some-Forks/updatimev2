@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 58,
+    "timeDay": 87,
     "timeWeek": 81,
-    "timeMonth": 136,
+    "timeMonth": 135,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2023-07-11": 17
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 150,
-    "timeWeek": 160,
-    "timeMonth": 194,
+    "time": 213,
+    "timeDay": 90,
+    "timeWeek": 158,
+    "timeMonth": 190,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 307,
-    "timeDay": 420,
-    "timeWeek": 293,
+    "timeDay": 277,
+    "timeWeek": 317,
     "timeMonth": 295,
     "timeYear": 312,
     "dailyMinutesDown": {
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/swagger.trake-dev.pcnt.io.ico",
     "slug": "trake-developer-doc",
     "status": "down",
-    "uptime": "14.08%",
+    "uptime": "14.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 538,
+    "time": 519,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-31": 22,
+      "2023-11-01": 23,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -447,8 +448,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440
+      "2022-11-02": 1440
     }
   }
 ]

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 255,
-    "timeWeek": 168,
-    "timeMonth": 122,
+    "timeDay": 62,
+    "timeWeek": 158,
+    "timeMonth": 121,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2023-07-11": 17
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 160,
-    "timeWeek": 196,
-    "timeMonth": 246,
-    "timeYear": 212,
+    "timeDay": 174,
+    "timeWeek": 171,
+    "timeMonth": 245,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -44,14 +44,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
-    "time": 326,
-    "timeDay": 394,
-    "timeWeek": 293,
-    "timeMonth": 290,
+    "time": 325,
+    "timeDay": 329,
+    "timeWeek": 291,
+    "timeMonth": 288,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2024-04-26": 18,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swagger.trake-dev.pcnt.io.ico",
     "slug": "trake-developer-doc",
     "status": "down",
-    "uptime": "10.43%",
+    "uptime": "10.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -84,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-27": 22,
+      "2024-04-28": 26,
+      "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
@@ -447,8 +448,7 @@
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
-      "2023-04-30": 1440,
-      "2023-04-29": 1440
+      "2023-04-30": 1440
     }
   }
 ]

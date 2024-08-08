@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 107,
-    "timeDay": 104,
-    "timeWeek": 107,
+    "time": 106,
+    "timeDay": 87,
+    "timeWeek": 90,
     "timeMonth": 114,
-    "timeYear": 105,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 413,
-    "timeWeek": 354,
-    "timeMonth": 297,
+    "timeDay": 89,
+    "timeWeek": 338,
+    "timeMonth": 299,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -44,17 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 314,
-    "timeDay": 271,
-    "timeWeek": 229,
-    "timeMonth": 274,
+    "timeDay": 181,
+    "timeWeek": 211,
+    "timeMonth": 273,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-08-07": 8,
       "2024-05-25": 15,
       "2024-04-26": 18,
       "2024-01-10": 92,
@@ -71,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swagger.trake-dev.pcnt.io.ico",
     "slug": "trake-developer-doc",
     "status": "down",
-    "uptime": "9.08%",
+    "uptime": "9.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -82,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-07": 536,
+      "2024-08-08": 26,
+      "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -445,8 +445,7 @@
       "2023-08-13": 1440,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
-      "2023-08-10": 1440,
-      "2023-08-09": 1440
+      "2023-08-10": 1440
     }
   }
 ]
